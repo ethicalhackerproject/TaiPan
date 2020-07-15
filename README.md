@@ -7,4 +7,4 @@ python3 TaiPan_v1.0.py
 ## SCREENSHOTS
 ![alt text](screenshot.png)
 
-
+![alt text](demo.gif)
