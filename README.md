@@ -2,7 +2,7 @@
 A GUI for MSF Venom that generates a payload, serves the payload on a web server, and starts up a listner. 
 
 ## USEAGE 
-- python3 Shell_GUI_1.7.1.py
+python3 TaiPan_v1.0.py
 
 ## SCREENSHOTS
 ![alt text](screenshot.png)
