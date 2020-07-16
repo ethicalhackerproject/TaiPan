@@ -3,5 +3,5 @@ Type=Application
 Encoding=UTF-8
 Name=TaiPan
 Terminal=false
-Exec=python3 /opt/taipan/TaiPan_v1.0.py
-Icon=/opt/taipan/logo.jpg
+Exec=python3 /opt/taipan/TaiPan_v1.0.py         #change path with location where app was downloaded
+Icon=/opt/taipan/logo.jpg                       #change path with location where app logo was downloaded
