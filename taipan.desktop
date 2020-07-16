@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=TaiPan
+Terminal=false
+Exec=python3 /opt/taipan/TaiPan.py
+Icon=/opt/taipan/logo.jpg
