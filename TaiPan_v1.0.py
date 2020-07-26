@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+# Created by Ethical Hacker Project
+
 import os
 import sys
 
